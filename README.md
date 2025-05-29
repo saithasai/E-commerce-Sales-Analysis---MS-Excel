@@ -54,3 +54,6 @@ MS Excel
 2. **Improve Order Completion** - Focus on the 32% non-completed orders
 3. **Optimize Top Categories** - Leverage high-performing product lines
 4. **Geographic Expansion** - Analyze underperforming countries for growth opportunities
+
+👉[Live dashboard](https://docs.google.com/spreadsheets/d/10b-GStrccVj4h2q_I-tfZ0oLn-mvXx7m/edit?usp=sharing&ouid=107213843031136373293&rtpof=true&sd=true) 
+
